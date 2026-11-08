@@ -2,6 +2,10 @@
 
 > **Senior Graduation Project** — Computer System Engineering
 
+<p align="center">
+  <img src="poster.jpg" alt="Driver Drowsiness Monitoring System Poster" width="800"/>
+</p>
+
 ---
 
 ## 📋 Abstract
